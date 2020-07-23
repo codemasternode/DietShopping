@@ -1,6 +1,7 @@
 import User from '../model/users'
 import jwt from 'jsonwebtoken'
 import { checkIsObjectHasRequiredProperties } from '../services/propertiesHelper'
+import "dotenv/config"
 
 export async function loginAuth(req, res) {
     const requireKeys = [
