@@ -4,9 +4,38 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon --exec babel-node ./src/index.js",
+    "start": "babel-node ./src/index.js",
+    "test": "./node_modules/.bin/mocha --require @babel/register --recursive './test/**/*.spec.js'",
+    "build": "npm install --prefix client && npm install && npm run build --prefix client && babel src --out-dir ./dist --source-maps",
+    "test-watch": "nodemon --watch test --exec './node_modules/.bin/mocha --require @babel/register --recursive './test/**/*.spec.js''"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bcryptjs": "^2.4.3",
+    "chai-http": "^4.3.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.25",
+    "uniqid": "^5.2.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.10.5",
+    "@babel/core": "^7.10.5",
+    "@babel/node": "^7.10.5",
+    "@babel/plugin-transform-runtime": "^7.10.5",
+    "@babel/polyfill": "^7.10.4",
+    "@babel/preset-env": "^7.10.4",
+    "@babel/register": "^7.10.5",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "nodemon": "^2.0.4"
+  }
 }
