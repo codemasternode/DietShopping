@@ -13,8 +13,10 @@ const app = express();
 app.use(express.static(path.join(__dirname, '../client/build')));
 app.use(cors({ credentials: true, origin: ['http://localhost:3000', 'http://localhost:5000'] }));
 
+if (process.env.NODE_ENV !== "test") {
+  mongodbConnection();
+}
 
-mongodbConnection();
 app.use(express.urlencoded({ extended: true }));
 app.use(express.json());
 app.use(cookieParser())

@@ -19,22 +19,8 @@ export async function loginAuth(req, res) {
 
     const user = await User.findOne({
         email: req.body.email,
-        isSuspended: false,
-        $or: [
-            {
-                endDateSubscription: {
-                    $lt: new Date()
-                }
-            },
-            {
-                freeUseToDate: {
-                    $lt: new Date()
-                }
-            }
-        ],
         isConfirmed: true
     })
-
     if (!user) {
         return res.status(404).send({
             msg: "This User doesnt' exists"
