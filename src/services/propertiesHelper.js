@@ -23,11 +23,11 @@ export function checkIsObjectHasRequiredProperties(arrayOfRequiredProperties, ob
 }
 
 export function checkIsObjectHasOnlyAllowProperties(arrayOfAllowProperties, objectToCheck) {
-    if (Array.isArray(arrayOfAllowProperties)) {
-        throw new Error("arrayOfRequiredProperties is an array, not a " + typeof arrayOfAllowProperties)
+    if (!Array.isArray(arrayOfAllowProperties)) {
+        throw new Error("arrayOfRequiredProperties is no an array")
     }
     if (typeof objectToCheck !== "object" && !(objectToCheck instanceof Array)) {
-        throw new Error("objectToCheck is an object, not a " + typeof objectToCheck)
+        throw new Error("objectToCheck is not a object")
     }
     for (let key in objectToCheck) {
         if (arrayOfAllowProperties.includes(key) === false) {
