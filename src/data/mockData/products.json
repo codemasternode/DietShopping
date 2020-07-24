@@ -1,0 +1,158 @@
+[
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "5,8\""
+           },
+           {
+                "parameter": "Procesor",
+                "value": "Apple A13 Bionic"
+           },
+           {
+                "parameter": "Pamięć",
+                "value": "512 GB"
+           },
+           {
+                "parameter": "System",
+                "value": "iOS 13"
+           }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Apple A13 Bionic"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, OLED, Super Retina XDR, True Tone, Multi Touch"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "5,8\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2436 x 1125"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.8 - tylny obiektyw szerokokątny"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Face ID"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K (do 60 kl./s)"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Galileo"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "Gniazdo kart nanoSIM - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Obsługuje"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i stali nierdzewnej"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM (nano-SIM i eSIM)"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "iOS 13"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Pyłoszczelność i wodoszczelność (IP68)"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "3190 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka 18 W"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Srebrny"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "144 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "71,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,1 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "188 g"
+            },
+            {
+                "parameter": "Data premiery",
+                "value": "2019"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "12 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "MWCE2PM/A"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "515884"
+            }
+        ]
+    }
+]
