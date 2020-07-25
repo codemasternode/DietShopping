@@ -1,9 +1,7 @@
 function getSpecificationFromXKomPage() {
     const fullSpecification = []
     const specificationList = document.querySelectorAll(".sc-13p5mv-0")
-    console.log(specificationList)
     for (let i = 0; i < specificationList.length; i++) {
-        console.log(specificationList[i].querySelectorAll("div")[2])
         fullSpecification.push({
             parameter: specificationList[i].querySelector("div").querySelector("div").innerText.trim(),
             value: specificationList[i].querySelectorAll("div")[2].querySelector("div").innerText.trim()

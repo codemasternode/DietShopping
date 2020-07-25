@@ -1942,14 +1942,14 @@
         ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "name": "Apple iPhone SE 64GB Black",
         "category": "smartphone",
-        "price": 4699,
+        "price": 2199,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Na taki smartfon warto było czekać. Poznaj czarny Apple iPhone SE 64GB - fenomen, który łączy w sobie najpotężniejszy procesor, najpopularniejszy rozmiar oraz najlepszą cenę. W pakiecie otrzymujesz wyjątkowy 4,7-calowy wyświetlacz Retina HD. Całość zamknięto w wytrzymałej obudowie wykonanej ze szkła i aluminium, a do tego jest wodoodporna. Nad błyskawiczną prędkością działania czuwa wybitny czip, który swą wydajnością zasłynął już w urządzeniach z serii 11 Pro. Nowy iPhone SE to również fenomenalne zdjęcia oraz niezwykle wytrzymała bateria. Nie zwlekaj, zamów swój egzemplarz już dziś.",
         "images": [
             {
                 "order": 1,
@@ -1964,18 +1964,176 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "4,7\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Apple A13 Bionic"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "iOS 13"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Apple A13 Bionic"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS, Retina HD, True Tone, Haptic Touch"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "4,7\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "1334 x 750"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "326 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "12.0 Mpix - szerokokątny"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "7.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.8 - tylny obiektyw szerokokątny"
+            },
+            {
+                "parameter": "Zoom - kamera tylna",
+                "value": "5x zoom cyfrowy"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "FullHD 1080p (do 240 kl./s)"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "GLONASS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "Gniazdo kart nanoSIM - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Dolna ramka ekranu"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Obsługuje"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM (nano-SIM i eSIM)"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "iOS 13"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Pyłoszczelność i wodoszczelność (IP67)"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-jonowa"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Czarny"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "138,4 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "67,3 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "7,3 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "148 g"
+            },
+            {
+                "parameter": "Data premiery",
+                "value": "Kwiecień 2020"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "12 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "MX9R2PM/A"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "559796"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "name": "Motorola Moto G8 4/64GB Neon Blue",
         "category": "smartphone",
-        "price": 4699,
+        "price": 699,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Niebieska Motorola Moto G8 64GB dzięki potrójnemu systemowi aparatów wspieranych przez sztuczną inteligencję jest w stanie robić niezwykłe zdjęcia szerokokątne, zbliżenia mikroświata, a nawet ostre ujęcia w miejscach ze słabym oświetleniem. Nad prędkością działania czuwa 8-rdzeniowy procesor Qualcomm Snapdragon 665 oraz 4GB pamięci RAM, co sprawia, że codziennie korzystanie z telefonu, granie w gry, obsługa aplikacji, przebiega płynnie i bez zakłóceń. Przestronny 6,4-calowy ekran wyświetla treści w wysokiej jakości, a wytrzymała bateria pozwoli korzystać ze smartfona nawet do 40 godzin na jednym ładowaniu.",
         "images": [
             {
                 "order": 1,
@@ -1990,18 +2148,180 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,4\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665 (4 rdzenie, 2.0 GHz, Kryo + 4 rdzenie, 1.8 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 610"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,4\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "1560 x 720"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "268 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "16.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "8.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.7 - tylny obiektyw"
+            },
+            {
+                "parameter": "Zoom - kamera tylna",
+                "value": "8x zoom cyfrowy"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Tył obudowy"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM - Obsługa dwóch kart SIM"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Ochrona przed zachlapaniem (IPX2)"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-jonowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Niebieski"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,3 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,8 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,95 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "188 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "PAHL0002PL (XT2045)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "560498"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "name": "Xiaomi Redmi Note 8T 4/128GB Starscape Blue",
         "category": "smartphone",
-        "price": 4699,
+        "price": 899,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Obudowa gradientowo niebieskiego Xiaomi Redmi Note 8T składa się z dwóch tafli odpornego na zarysowania szkła 2,5D. Minimalistyczna aluminiowa ramka, harmonijnie spina je ze sobą, tworząc zwartą, elegancką konstrukcję wyróżniającą się ekranem, zajmującym niemal cały front. Niezwykłość Redmi Note 8T tkwi jednak w jego zaawansowanym module aparatów, na który składają się aż cztery kamery do różnych zastosowań. Całość uzupełnia mocna specyfikacja z procesorem Snapdragon 665 na czele i błyskawicznie ładującą się baterią 4000 mAh.",
         "images": [
             {
                 "order": 1,
@@ -2016,18 +2336,148 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665 (4 rdzenie, 2.0 GHz, Kryo + 4 rdzenie, 1.7 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 610"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.79 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Beidou"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Quick Charge"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Niebiesko-fioletowy"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,15 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,6 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199,8 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "527789"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "name": "Xiaomi Redmi Note 9 4/128GB Forest Green",
         "category": "smartphone",
-        "price": 4699,
+        "price": 899,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Doskonały smartfon na każdą kieszeń? Z Xiaomi Redmi Note 9 128GB zielony jest to możliwe. Pierwsze skrzypce gra tutaj poczwórny aparat, który pozwoli robić Ci oszałamiające fotografie. Nad płynnością działania czuwa nowoczesny procesor MediaTek Helio G85. Ponadto do dyspozycji masz superwydajną baterię o pojemności 5020 mAh, wraz z funkcją szybkiego ładowania. Dzięki czujnikowi podczerwieni możesz używać swojego smartfona jako uniwersalnego pilota.",
         "images": [
             {
                 "order": 1,
@@ -2042,18 +2492,176 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,53\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek Helio G85"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek Helio G85 (2 rdzenie, 2.0 GHz, A75 + 6 rdzeni, 1.8 GHz, A55)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Mali-G52 MC2"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,53\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "395 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "2.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "13.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.79 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "FullHD 1080p"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Tył obudowy"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Szkło Corning Gorilla Glass 5"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Fast Charge"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-jonowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "5020 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Zielony"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "162,3 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "77,2 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,9 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "566360"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "name": "Xiaomi Redmi Note 8T 4/64GB Starscape Blue",
         "category": "smartphone",
-        "price": 4699,
+        "price": 779,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Obudowa gradientowo niebieskiego Xiaomi Redmi Note 8T składa się z dwóch tafli odpornego na zarysowania szkła 2,5D. Minimalistyczna aluminiowa ramka, harmonijnie spina je ze sobą, tworząc zwartą, elegancką konstrukcję wyróżniającą się ekranem, zajmującym niemal cały front. Niezwykłość Redmi Note 8T tkwi jednak w jego zaawansowanym module aparatów, na który składają się aż cztery kamery do różnych zastosowań. Całość uzupełnia mocna specyfikacja z procesorem Snapdragon 665 na czele i błyskawicznie ładującą się baterią 4000 mAh.",
         "images": [
             {
                 "order": 1,
@@ -2068,18 +2676,148 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665 (4 rdzenie, 2.0 GHz, Kryo + 4 rdzenie, 1.7 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 610"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.79 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Beidou"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Quick Charge"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Niebiesko-fioletowy"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,15 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,6 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199,8 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "527785"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "name": "HTC Desire 12s 3/32GB Dual SIM NFC dark blue",
         "category": "smartphone",
-        "price": 4699,
+        "price": 449,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Wyjątkowe wykończenie łączące dwie różne faktury, wyróżnia granatowego HTC Desire 12s spośród innych smartfonów. Przyciągający spojrzenia, prążkowany design i zaokrąglone brzegi obudowy sprawiają, że telefon wygodnie leży w dłoni. Pod przednim panelem z profilowanego szkła 2.5D, znalazł się wyświetlacz IPS o przekątnej 5,7''. Z tyłu zagościł natomiast aparat 13 MP. Co więcej, Desire 12s zaskakuje też wydajnością a jego specyfikację uzupełnia moduł NFC, umożliwiający płatności zbliżeniowe.",
         "images": [
             {
                 "order": 1,
@@ -2094,18 +2832,140 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "5,7\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 435"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "32 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 8.1 Oreo"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 435 (4 rdzenie, 1.40 GHz, A53 + 4 rdzenie, 1.10 GHz, A53)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 505"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "3 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "32 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "5,7\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "1440 x 720"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/2.0 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "FullHD 1080p"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "Micro USB - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 8.1 Oreo"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "3075 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Granatowy"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "154,2 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "72,7 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,3 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "150 g"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "99HAPP002-00"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "477937"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "Intel Core i5-9400F",
+        "category": "CPU",
+        "price": 689,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Intel Core i5-9400F to zaawansowany procesor 9-tej generacji pozbawiony zintegrowanego układu graficznego. CPU posiada 6 rdzeni, 6 wątków, 9MB pamięci SmartCache oraz częstotliwość bazową 2.90GHz, którą można zwiększyć do 4.10GHz w trybie Turbo. Poczuj moc 9. generacji procesorów Intel Core.",
         "images": [
             {
                 "order": 1,
@@ -2120,18 +2980,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "i5-9400F"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "2.9 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Cache",
+                "value": "9 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "Intel Core i5"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "i5-9400F"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket 1151"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "2.9 GHz (4.1 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "6 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "9 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2666 (PC4-21333)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "14 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "65 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "Intel Turbo Boost 2.0"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Obsługa pamięci Intel® Optane™"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "BX80684I59400F"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "473872"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "Intel Core i5-9600KF",
+        "category": "CPU",
+        "price": 879,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Intel Core i5-9600KF wprowadza na wyższy poziom wydajności. Ten stworzony dla wymagających graczy oraz profesjonalistów, pozbawiony układu graficznego procesor posiada aż 6 rdzeni fizycznych o bazowym taktowaniu zegara na poziomie 3,7 GHz. Do tego 9 MB pamięci SmartCache oraz obsługa pamięci o taktowaniu nawet 2666 MHz. Z Intel Core i5-9600KF możesz więcej.",
         "images": [
             {
                 "order": 1,
@@ -2146,18 +3100,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "i5-9600KF"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.7 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Cache",
+                "value": "9 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "Intel Core i5"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "i5-9600KF"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket 1151"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.7 GHz (4.6 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "6 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "9 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2666 (PC4-21333)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "14 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "95 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "Intel Turbo Boost 2.0"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Obsługa pamięci Intel® Optane™"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "BX80684I59600KF"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "511775"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "AMD Ryzen 5 2600",
+        "category": "CPU",
+        "price": 639,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Procesor AMD Ryzen 5 2600 to idealny wybór do gamingu i do pracy z profesjonalnymi aplikacjami. Taktowanie bazowe 3.4 GHz wzrasta do 3.9 GHz w trybie Turbo, podnosząc efektywność pracy i zapobiegając spadkom fps-ów w grach. Jednostka posiada 6 rdzeni, 12 wątków oraz 19 MB pamięci podręcznej.",
         "images": [
             {
                 "order": 1,
@@ -2172,18 +3220,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "Ryzen 5 2600"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.4 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Cache",
+                "value": "19 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "AMD Ryzen"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "Ryzen 5 2600"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket AM4"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.4 GHz (3.9 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "12 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "19 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2933 (PC4-23466)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "12 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "65 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "AMD SenseMI"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Wersja BOX"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "YD2600BBAFBOX"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "421255"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "AMD Ryzen 7 3700X",
+        "category": "CPU",
+        "price": 1449,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Czerpiąc z nowatorskiej architektury Zen 2, procesor AMD Ryzen 7 3700X dysponuje olbrzymią mocą obliczeniową. Pozwól działać potędze 8 rdzeni i 16 wątków wspartych przez 36 MB pamięci cache. Bazowe taktowanie rdzeni liczy 3,60 GHz, a w trybie Turbo przyspiesza do 4,40 GHz, obsługując bezbłędnie każdą grę, każdy program i każdy proces. Potęgę jednostki Ryzen 7 3700X zwiększysz jeszcze bardziej, korzystając z odblokowanego mnożnika.",
         "images": [
             {
                 "order": 1,
@@ -2198,18 +3340,108 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "Ryzen 7 3700X"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.6 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "8 rdzeni"
+            },
+            {
+                "parameter": "Cache",
+                "value": "36 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "AMD Ryzen"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "Ryzen 7 3700X"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket AM4"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.6 GHz (4.4 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "8 rdzeni"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "16 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "36 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-3200 (PC4-25600)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "7 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "65 W"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Wentylator z podświetleniem RGB"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "100-100000071BOX"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "500094"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "AMD Ryzen 3 3100",
+        "category": "CPU",
+        "price": 499,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Poznaj AMD Ryzen 3 3100, jednostkę stworzoną dla graczy, która posiada 4 rdzenie oraz 8 wątków, a pamięć cache liczy łącznie 18 MB. Procesor pozwoli Ci na płynny gaming z wieloma tytułami, oferując maksymalną częstotliwość w trybie Turbo sięgającą nawet 3,9 GHz, co w odczuwalny sposób poprawi wydajność komputera. Dołączone do zestawu chłodzenie zadba o optymalne temperatury pracy CPU.",
         "images": [
             {
                 "order": 1,
@@ -2224,18 +3456,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "Ryzen 3 3100"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.9 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "4 rdzenie"
+            },
+            {
+                "parameter": "Cache",
+                "value": "18 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "AMD Ryzen"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "Ryzen 3 3100"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket AM4"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.9 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "4 rdzenie"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "8 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "18 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-3200 (PC4-25600)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "7 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "65 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "AMD Zen Core"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Wersja BOX"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "100-100000284BOX"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "560813"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "Intel Core i3-9100F",
+        "category": "CPU",
+        "price": 319,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Intel Core i3-9100F to niezwykle wydajny procesor 9-tej generacji, który został pozbawiony zintegrowanego układu graficznego. CPU posiada 4 rdzenie, 4 wątki, 6MB pamięci SmartCache oraz częstotliwość bazową 3.60GHz. Co więcej, dzięki technologii Intel Turbo Boost 2.0 częstotliwość można podkręcić do 4.20GHz, zwiększając wydajność procesora. Poczuj moc 9. generacji procesorów Intel Core.",
         "images": [
             {
                 "order": 1,
@@ -2250,18 +3576,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "i3-9100F"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.6 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "4 rdzenie"
+            },
+            {
+                "parameter": "Cache",
+                "value": "6 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "Intel Core i3"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "i3-9100F"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket 1151"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.6 GHz (4.2 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "4 rdzenie"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "4 wątki"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "6 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2400 (PC4-19200)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "14 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "65 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "Intel Turbo Boost 2.0"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Obsługa pamięci ECC"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "BX80684I39100F"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "494814"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
+        "name": "AMD Ryzen 3 1200 AF",
+        "category": "CPU",
         "price": 4699,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Stań do e-sportowych zmagań, uzbrojony w procesor AMD Ryzen 3 1200 AF. Ta nowoczesna jednostka, wykonana w procesie technologicznym 12nm, posiada 4 rdzenie, 4 wątki oraz 10 MB pamięci podręcznej, dostarczając moc do wielozadaniowej pracy. Bazowe taktowanie rdzeni liczy 3,1 GHz, sięgając 3,4 GHz w trybie Turbo. Jeśli wymagasz więcej, skorzystaj z możliwości, jakie daje odblokowany mnożnik i podkręć wydajność CPU.",
         "images": [
             {
                 "order": 1,
@@ -2276,18 +3696,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "Ryzen 3 1200"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.1 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "4 rdzenie"
+            },
+            {
+                "parameter": "Cache",
+                "value": "10 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "AMD Ryzen"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "Ryzen 3 1200"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket AM4"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.1 GHz (3.4 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "4 rdzenie"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "4 wątki"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "10 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Brak"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2933 (PC4-23466)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "12 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "65 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "AMD SenseMI"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Wersja BOX"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "YD1200BBAFBOX"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "553243"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "Intel Core i5-9600K",
+        "category": "CPU",
+        "price": 979,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Intel Core i5-9600K to zaawansowany procesor stworzony z myślą o profesjonalnych zastosowaniach oraz gamingu na najwyższym poziomie. CPU posiada 6 rdzeni, 6 wątków, 9 MB pamięci SmartCache oraz odblokowany mnożniki, dzięki czemu możesz zwiększyć moc Twojego komputera. Poczuj moc 9. generacji procesorów Intel Core.",
         "images": [
             {
                 "order": 1,
@@ -2302,18 +3816,112 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "i5-9600K"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.7 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Cache",
+                "value": "9 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "Intel Core i5"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "i5-9600K"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket 1151"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.7 GHz (4.6 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "6 rdzeni"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "6 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "9 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Intel UHD Graphics 630"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2666 (PC4-21333)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "14 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "95 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "Intel Turbo Boost 2.0"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Obsługa pamięci Intel® Optane™"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "BX80684I59600K"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "455532"
+            }
+        ]
     },
     {
-        "name": "Apple Iphone 11 Pro 64GB Space Gray",
-        "category": "smartphone",
-        "price": 4699,
+        "name": "Intel Core i7-10700K",
+        "category": "CPU",
+        "price": 1899,
         "inMagazine": {
             "blocked": 0,
             "inStock": 40
         },
-        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "shortDescription": "Poznaj moc do dziesiątej potęgi. Nowy, odblokowany procesor Intel® Core™ i7-10700K z rodziny Comet Lake zapewnia znacznie wyższą wydajność, która przekłada się na wzrost produktywności i fantastyczną rozrywkę. Intel Core i7 10-generacji oferuje m.in. częstotliwość dochodzącą do 5.1 GHz w trybie turbo, 8 rdzeni, 16 wątków, a także inteligentną optymalizację systemu. Wbudowane inteligentne funkcje wydajności uczą się i przystosowują do nawyków użytkownika oraz dynamicznie kierują moc, tam gdzie jest najbardziej potrzebna. Odkryj nowe ultramożliwości z procesorem Intel® Core™ i7-10700K.",
         "images": [
             {
                 "order": 1,
@@ -2328,7 +3936,101 @@
                 "src": ""
             }
         ],
-        "bulletPoints": [],
-        "fullSpecification": []
+        "bulletPoints": [
+            {
+                "parameter": "Seria",
+                "value": "i7-10700K"
+            },
+            {
+                "parameter": "Taktowanie",
+                "value": "3.8 GHz"
+            },
+            {
+                "parameter": "Liczba rdzeni",
+                "value": "8 rdzeni"
+            },
+            {
+                "parameter": "Cache",
+                "value": "16 MB"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Rodzina procesorów",
+                "value": "Intel Core i7"
+            },
+            {
+                "parameter": "Seria procesora",
+                "value": "i7-10700K"
+            },
+            {
+                "parameter": "Gniazdo procesora (socket)",
+                "value": "Socket 1200"
+            },
+            {
+                "parameter": "Taktowanie rdzenia",
+                "value": "3.8 GHz (5.1 GHz w trybie turbo)"
+            },
+            {
+                "parameter": "Liczba rdzeni fizycznych",
+                "value": "8 rdzeni"
+            },
+            {
+                "parameter": "Liczba wątków",
+                "value": "16 wątków"
+            },
+            {
+                "parameter": "Odblokowany mnożnik",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Pamięć podręczna",
+                "value": "16 MB"
+            },
+            {
+                "parameter": "Zintegrowany układ graficzny",
+                "value": "Tak"
+            },
+            {
+                "parameter": "Model układu graficznego",
+                "value": "Intel UHD Graphics 630"
+            },
+            {
+                "parameter": "Rodzaj obsługiwanej pamięci",
+                "value": "DDR4-2933 (PC4-23466)"
+            },
+            {
+                "parameter": "Proces litograficzny",
+                "value": "14 nm"
+            },
+            {
+                "parameter": "Pobór mocy (TDP)",
+                "value": "125 W"
+            },
+            {
+                "parameter": "Zastosowane technologie",
+                "value": "Intel Hyper-Threading"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Obsługa pamięci Intel® Optane™"
+            },
+            {
+                "parameter": "Chłodzenie w zestawie",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "36 miesięcy (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "BX8070110700K"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "564439"
+            }
+        ]
     }
 ]
