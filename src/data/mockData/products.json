@@ -26,19 +26,19 @@
             {
                 "parameter": "Ekran",
                 "value": "5,8\""
-           },
-           {
+            },
+            {
                 "parameter": "Procesor",
                 "value": "Apple A13 Bionic"
-           },
-           {
+            },
+            {
                 "parameter": "Pamięć",
                 "value": "512 GB"
-           },
-           {
+            },
+            {
                 "parameter": "System",
                 "value": "iOS 13"
-           }
+            }
         ],
         "fullSpecification": [
             {
@@ -154,5 +154,2181 @@
                 "value": "515884"
             }
         ]
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Samsung Galaxy A21s SM-A217F Black",
+        "category": "smartphone",
+        "price": 869,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 60
+        },
+        "shortDescription": "Samsung Galaxy A21s to najbardziej kompaktowy smartfon z serii A. Jest wyposażony w ekran Infinity Display, posiadający proporcje ekranu do obudowy na poziomie przekraczającym 90%, oraz oferuje zaawansowaną funkcję Multi Window. A21s ma akumulator o pojemności aż 5000 mAh zapewniający długą pracę urządzenia. O sprawne uzupełnienie energii dba funkcja szybkiego ładowania 15W. Obudowa urządzenia została wykonana z eleganckich materiałów, co zapewnia telefonowi unikalne wzornictwo oraz sprawia, że smartfon idealnie układa się w dłoni. O bezpieczeństwo dba między innymi umieszczony z tyłu urządzenia czytnik linii papilarnych.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,5\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Samsung Exynos 850"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "32 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Samsung Exynos 850 (8 rdzeni, 2.00 GHz, A65)"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "3 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "32 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,5\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "1600 x 720"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "270 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "2.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "13.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/2.0 - tylny obiektyw szerokokątny"
+            },
+            {
+                "parameter": "Zoom - kamera tylna",
+                "value": "8x zoom cyfrowy"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "FullHD 1080p"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Tył obudowy"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Nie"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-jonowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "5000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Czarny"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "163,7 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,3 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,9 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "192 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "SM-A217FZKNEUE"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "557628"
+            }
+        ]
+    },
+    {
+        "name": "Huawei P40 Lite czarny",
+        "category": "smartphone",
+        "price": 1599,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,4\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Kirin 810"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Kirin 810 (2 rdzenie, 2,27 GHz, Cortex A76 + 6 rdzeni, 1,88 GHz Cortex A55)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Mali-G52 MP6"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "6 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "256 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,4\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2310 x 1080"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "398 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "2.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "16.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.8 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "FullHD 1080p"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Prawy bok"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM - Obsługa dwóch kart SIM"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Super Charge"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-polimerowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4200 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Czarny"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "159,2 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "76,3 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,7 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "183 g"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "Jenny-L21A Midnight Black 51095CJV"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "548428"
+            }
+        ]
+    },
+    {
+        "name": "Huawei Y6p zielony",
+        "category": "smartphone",
+        "price": 599,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "HUAWEI Y6p to najnowszy produkt z rodziny Y. Sprawdzi się on wśród amatorów fotografii dzięki 3 aparatom oraz obiektywowi szerokokątnemu. Smartfon wyposażony jest również w ekran 6,3” typu Dewdrop, który zapewnia jeszcze lepszą widoczność. Dzięki niezwykle pojemnej baterii 5000 mAh Y6p może pracować przez wiele godzin na jednym ładowaniu. Sprawdź, jak HUAWEI Y6p wygląda w rzeczywistości. Chwyć zdjęcie poniżej i przeciągnij je w lewo lub prawo aby obrócić produkt lub skorzystaj z przycisków nawigacyjnych.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek MT6762R Helio P22"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek MT6762R Helio P22 (4 rdzenie, 2.0 GHz, + 4 rdzenie, 1.50 GHz, Cortex A53)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "PowerVR GE8320"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "3 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "1600 x 720"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "278 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "2.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "8.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.8 - tylny obiektyw"
+            },
+            {
+                "parameter": "Zoom - kamera tylna",
+                "value": "4x zoom cyfrowy"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "FullHD 1080p"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "Micro USB - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Tył obudowy"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM - Obsługa dwóch kart SIM"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Obsługa radia FM"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-polimerowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "5000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Zielony"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "159,1 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "74 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "9 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "185 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "Merida-L49C Emerald Green"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "563586"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi Redmi Note 8T 4/64GB Moonshadow Grey",
+        "category": "smartphone",
+        "price": 799,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Obudowa szarego Xiaomi Redmi Note 8T składa się z dwóch tafli odpornego na zarysowania szkła 2,5D. Minimalistyczna aluminiowa ramka, harmonijnie spina je ze sobą, tworząc zwartą, elegancką konstrukcję wyróżniającą się ekranem, zajmującym niemal cały front. Niezwykłość Redmi Note 8T tkwi jednak w jego zaawansowanym module aparatów, na który składają się aż cztery kamery do różnych zastosowań. Całość uzupełnia mocna specyfikacja z procesorem Snapdragon 665 na czele i błyskawicznie ładującą się baterią 4000 mAh.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665 (4 rdzenie, 2.0 GHz, Kryo + 4 rdzenie, 1.7 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 610"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.79 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Beidou"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Quick Charge"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Szary"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,15 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,6 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199,8 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "527784"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi Redmi Note 8T 4/64GB Moonlight White",
+        "category": "smartphone",
+        "price": 799,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Obudowa białego Xiaomi Redmi Note 8T składa się z dwóch tafli odpornego na zarysowania szkła 2,5D. Minimalistyczna aluminiowa ramka, harmonijnie spina je ze sobą, tworząc zwartą, elegancką konstrukcję wyróżniającą się ekranem, zajmującym niemal cały front. Niezwykłość Redmi Note 8T tkwi jednak w jego zaawansowanym module aparatów, na który składają się aż cztery kamery do różnych zastosowań. Całość uzupełnia mocna specyfikacja z procesorem Snapdragon 665 na czele i błyskawicznie ładującą się baterią 4000 mAh.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 665 (4 rdzenie, 2.0 GHz, Kryo + 4 rdzenie, 1.7 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 610"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,3\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.79 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Beidou"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Quick Charge"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Biały"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,15 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,6 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199,8 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "527786"
+            }
+        ]
+    },
+    {
+        "name": "Samsung Galaxy M21 SM-M215F Black",
+        "category": "smartphone",
+        "price": 999,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Nie raz Twój Samsung Galaxy M21 czarny przyciągnie wzrok nie jednej osoby, to za sprawą eleganckiej obudowy. Wkomponowano w nią świetny wyświetlacz 6,4” Super AMOLED zapewni Ci on niezapomniane efekty wizualne i wyrazisty obraz. Dodatkowo z tyłu obudowy odnajdziesz wspaniały aparata 48 Mpix. Teraz zrobisz nie jedno piękne ujęcie.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,4\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Samsung Exynos 9611"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Samsung Exynos 9611 (4 rdzenie, 2.3 GHz, A73 + 4 rdzenie, 1.7 GHz, A53)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Mali-G72 MP3"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "4 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, Super AMOLED"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,4\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "403 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "5.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "20.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/2.0 - tylny obiektyw"
+            },
+            {
+                "parameter": "Zoom - kamera tylna",
+                "value": "4x zoom cyfrowy"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "HD 720p (do 240 kl./s)"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Tył obudowy"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM - Obsługa dwóch kart SIM"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Fast Charge"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-jonowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "6000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Czarny"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "159 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "75,1 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,9 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "188 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod producenta",
+                "value": "SM-M215FZKUXEO"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "557646"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi Redmi 7 2/16GB Dual SIM LTE Lunar Red",
+        "category": "smartphone",
+        "price": 399,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,26\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 632"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "16 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 632 (8 rdzeni, 1.80 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 506"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "2 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "16 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,26\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "1520 x 720"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "269 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "2.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "8.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/2.2 - tylny obiektyw"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "HD 720p (do 120 kl./s)"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "FullHD 1080p (do 60 kl./s)"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "Micro USB - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Tył obudowy"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Skaner twarzy"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-polimerowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4000 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Czerwony"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "158,7 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "76,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,95 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "180 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "568978"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi Redmi Note 8 PRO 6/128GB Forest Green",
+        "category": "smartphone",
+        "price": 1099,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Smukła aluminiowa ramka zielonego Xiaomi Redmi Note 8 Pro 128 GB, niemal niezauważalnie łączy się z elegancko zakrzywionym szkłem ekranu oraz tylnej obudowy. Harmonijna konstrukcja stanowi wytrzymałą podstawę dla mocnych komponentów wewnątrz. Smartfon bazuje na zoptymalizowanym do gier, flagowym procesorze Helio G90T. Bezkompromisowa moc, to jednak nie wszystko, bo Redmi Note 8 Pro posiada też rewolucyjny poczwórny aparat z matrycą główną 64 Mpix.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,53\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek Helio G90T"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek Helio G90T (2 rdzenie, 2.05 GHz, Cortex A76 + 6 rdzeni, 2.0 GHz A55)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Mali-G76 MC4"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "6 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,53\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.8 - tylny obiektyw szerokokątny"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "FullHD 1080p (do 120 kl./s)"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Beidou"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Quick Charge"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4500 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Zielony"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,35 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "76,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,79 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199,8 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "519850"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi Redmi Note 8 PRO 6/64GB Forest Green",
+        "category": "smartphone",
+        "price": 969,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Smukła aluminiowa ramka zielonego Xiaomi Redmi Note 8 Pro 64 GB, niemal niezauważalnie łączy się z elegancko zakrzywionym szkłem ekranu oraz tylnej obudowy. Harmonijna konstrukcja stanowi wytrzymałą podstawę dla mocnych komponentów wewnątrz. Smartfon bazuje na zoptymalizowanym do gier, flagowym procesorze Helio G90T. Bezkompromisowa moc, to jednak nie wszystko, bo Redmi Note 8 Pro posiada też rewolucyjny poczwórny aparat z matrycą główną 64 Mpix.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,53\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek Helio G90T"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 9.0 Pie"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "MediaTek Helio G90T (2 rdzenie, 2.05 GHz, Cortex A76 + 6 rdzeni, 2.0 GHz A55)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Mali-G76 MC4"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "6 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "64 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,53\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2340 x 1080"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.8 - tylny obiektyw szerokokątny"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "FullHD 1080p (do 120 kl./s)"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "Beidou"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Obudowa wykonana ze szkła i aluminium"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 9.0 Pie"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Funkcja szybkiego ładowania Quick Charge"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "4500 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Zasilacz"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Zielony"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "161,35 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "76,4 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,79 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "199,8 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "519849"
+            }
+        ]
+    },
+    {
+        "name": "Xiaomi Redmi Note 9 Pro 6/128GB Grey",
+        "category": "smartphone",
+        "price": 1399,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Fani pięknych ujęć w Xiaomi Redmi Note 9 Pro 6/128 GB szary znajdą swojego towarzysza podczas fantastycznych podróży, czy uwieczniania ciekawych momentów ze swoimi przyjaciółmi. Pomoże Ci w tym główny aparat 64 Mpix. Codzienna wydajność? Będzie płynna, to dzięki procesorowi Snapdragon 720G oraz dużej pamięci RAM. Co więcej, na świetnym ekranie 6,67” ujrzysz nie jeden wyświetlany obraz z pięknymi kolorami.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [
+            {
+                "parameter": "Ekran",
+                "value": "6,67\""
+            },
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 720G"
+            },
+            {
+                "parameter": "Pamięć",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "System",
+                "value": "Android 10"
+            }
+        ],
+        "fullSpecification": [
+            {
+                "parameter": "Procesor",
+                "value": "Qualcomm Snapdragon 720G (2 rdzenie, 2.3 GHz, Kryo + 6 rdzeni, 1.8 GHz, Kryo)"
+            },
+            {
+                "parameter": "Układ graficzny",
+                "value": "Adreno 618"
+            },
+            {
+                "parameter": "Pamięć RAM",
+                "value": "6 GB"
+            },
+            {
+                "parameter": "Pamięć wbudowana",
+                "value": "128 GB"
+            },
+            {
+                "parameter": "Maks. pojemność karty pamięci",
+                "value": "512 GB"
+            },
+            {
+                "parameter": "Typ ekranu",
+                "value": "Dotykowy, IPS"
+            },
+            {
+                "parameter": "Przekątna ekranu",
+                "value": "6,67\""
+            },
+            {
+                "parameter": "Rozdzielczość ekranu",
+                "value": "2400 x 1080"
+            },
+            {
+                "parameter": "Zagęszczenie pikseli",
+                "value": "395 ppi"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - tył",
+                "value": "2.0 Mpix"
+            },
+            {
+                "parameter": "Rozdzielczość aparatu - przód",
+                "value": "16.0 Mpix - do selfie"
+            },
+            {
+                "parameter": "Przysłona obiektywu",
+                "value": "f/1.89 - tylny obiektyw"
+            },
+            {
+                "parameter": "Zoom - kamera tylna",
+                "value": "10x zoom cyfrowy"
+            },
+            {
+                "parameter": "Dodatkowe cechy aparatu",
+                "value": "Wbudowana lampa błyskowa"
+            },
+            {
+                "parameter": "Slow Motion",
+                "value": "FullHD 1080p (do 120 kl./s)"
+            },
+            {
+                "parameter": "Rozdzielczość nagrywania wideo",
+                "value": "4K"
+            },
+            {
+                "parameter": "Łączność",
+                "value": "4G (LTE)"
+            },
+            {
+                "parameter": "System nawigacji satelitarnej",
+                "value": "A-GPS"
+            },
+            {
+                "parameter": "Złącza",
+                "value": "USB Typu-C - 1 szt."
+            },
+            {
+                "parameter": "Czytnik linii papilarnych",
+                "value": "Prawy bok"
+            },
+            {
+                "parameter": "Czujniki",
+                "value": "Akcelerometr"
+            },
+            {
+                "parameter": "Ładowanie bezprzewodowe",
+                "value": "Nie obsługuje"
+            },
+            {
+                "parameter": "Obudowa",
+                "value": "Szkło Corning Gorilla Glass 5 - tylny panel"
+            },
+            {
+                "parameter": "Dual SIM",
+                "value": "Dual SIM LTE - Obsługa dwóch kart SIM w technologii LTE"
+            },
+            {
+                "parameter": "Zainstalowany system operacyjny",
+                "value": "Android 10"
+            },
+            {
+                "parameter": "Dodatkowe informacje",
+                "value": "Ochrona przed zachlapaniem (IPX2)"
+            },
+            {
+                "parameter": "Typ baterii",
+                "value": "Litowo-polimerowa"
+            },
+            {
+                "parameter": "Pojemność baterii",
+                "value": "5020 mAh"
+            },
+            {
+                "parameter": "Dołączone akcesoria",
+                "value": "Ładowarka"
+            },
+            {
+                "parameter": "Kolor",
+                "value": "Szary"
+            },
+            {
+                "parameter": "Wysokość",
+                "value": "165,75 mm"
+            },
+            {
+                "parameter": "Szerokość",
+                "value": "76,7 mm"
+            },
+            {
+                "parameter": "Grubość",
+                "value": "8,8 mm"
+            },
+            {
+                "parameter": "Waga",
+                "value": "209 g"
+            },
+            {
+                "parameter": "Rodzaj gwarancji",
+                "value": "Standardowa"
+            },
+            {
+                "parameter": "Gwarancja",
+                "value": "24 miesiące (gwarancja producenta)"
+            },
+            {
+                "parameter": "Kod x-kom",
+                "value": "566373"
+            }
+        ]
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
+    },
+    {
+        "name": "Apple Iphone 11 Pro 64GB Space Gray",
+        "category": "smartphone",
+        "price": 4699,
+        "inMagazine": {
+            "blocked": 0,
+            "inStock": 40
+        },
+        "shortDescription": "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+        "images": [
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            },
+            {
+                "order": 1,
+                "src": ""
+            }
+        ],
+        "bulletPoints": [],
+        "fullSpecification": []
     }
 ]
