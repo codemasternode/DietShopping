@@ -1,5 +1,8 @@
 import mongoose from "mongoose";
 import "dotenv/config"
+import { loadDataFromJSONFile } from '../services/loadData'
+import Products from '../model/products'
+import Users from '../model/users'
 
 let MONGO_DB_URL = process.env.MONGO_DB_URL
 
@@ -37,7 +40,31 @@ export default (callback) => {
                 }
                 Promise.all(callbacks).then(() => {
                     console.log("Remove everything from DB")
-                    callback()
+                    Promise.all(
+                        [
+
+                            new Promise((resolve, reject) => {
+                                loadDataFromJSONFile("mockData/products.json").then(data => {
+                                    console.log(data)
+                                    Products.insertMany(data).then((d) => {
+                                        resolve()
+                                    })
+                                })
+                            })
+                            ,
+                            new Promise((resolve, reject) => {
+                                loadDataFromJSONFile("mockData/users.json").then(data => {
+                                    Users.insertMany(data).then((d) => {
+                                        resolve()
+                                    })
+                                })
+                            })
+
+                        ]
+                    ).then(() => {
+                        callback()
+                    })
+
                 })
             })
 

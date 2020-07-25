@@ -1,11 +1,12 @@
 import { expect } from 'chai'
 import mongodbConnection from "../../src/config/db"
-import User from '../../src/model/users'
+import Products from '../../src/model/products'
 import uniqid from 'uniqid'
 import chai from 'chai'
 import chaiHttp from 'chai-http'
 import server from '../../src/index'
 import chaiExpectedCookie from 'chai-expected-cookie'
+import { loadDataFromJSONFile } from '../../src/services/loadData'
 
 let should = chai.should();
 
@@ -20,6 +21,7 @@ describe("test /api/products/get-products-by-page", () => {
                 page: 1,
                 sort: "created_at"
             }).end((err, res) => {
+                console.log(res.body)
                 res.should.have.status(200);
                 res.should.have.property("products")
                 expect(res.body.products).to.be.an("array")

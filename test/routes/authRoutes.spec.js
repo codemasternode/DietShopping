@@ -6,6 +6,7 @@ import chai from 'chai'
 import chaiHttp from 'chai-http'
 import server from '../../src/index'
 import chaiExpectedCookie from 'chai-expected-cookie'
+import mongoose from 'mongoose'
 
 let should = chai.should();
 
@@ -14,38 +15,7 @@ chai.use(chaiExpectedCookie)
 
 describe("test /api/auth/login", () => {
     before((done) => {
-        mongodbConnection(async () => {
-            const user = await User.create({
-                name: "Marcin",
-                surname: "Warzybok",
-                phone: "563123123",
-                email: "marcinwarzybok@outlook.com",
-                password: "ABCDEFGH",
-                isConfirmed: true,
-                address_details: {
-                    street: "Bieżanowska",
-                    houseNumber: "258B",
-                    state: "Małapolska"
-                },
-                confirmCode: uniqid()
-            })
-            const user2 = await User.create({
-                name: "Marcin",
-                surname: "Warzybok",
-                phone: "563123123",
-                email: "marcinwarzybok2@outlook.com",
-                password: "ABCDEFGH",
-                isConfirmed: false,
-                address_details: {
-                    street: "Bieżanowska",
-                    houseNumber: "258B",
-                    state: "Małapolska"
-                },
-                confirmCode: uniqid()
-            })
-            done()
-        })
-
+        mongodbConnection(done)
     })
     it("should return 200 with cookie when pass correct credentials", (done) => {
         chai.request(server)
@@ -55,6 +25,7 @@ describe("test /api/auth/login", () => {
                 password: "ABCDEFGH"
             })
             .end((err, res) => {
+                console.log(res.body)
                 res.should.have.status(200);
                 res.body.should.have.property("expiresAt")
                 expect(res).to.containCookie({

@@ -1,0 +1,30 @@
+[
+    {
+        "name": "Marcin",
+        "surname": "Warzybok",
+        "phone": "563123123",
+        "email": "marcinwarzybok@outlook.com",
+        "password": "ABCDEFGH",
+        "isConfirmed": true,
+        "address_details": {
+            "street": "Bieżanowska",
+            "houseNumber": "258B",
+            "state": "Małapolska"
+        },
+        "confirmCode": "sdddsaasdzcxcvge"
+    },
+    {
+        "name": "Marcin",
+        "surname": "Warzybok",
+        "phone": "563123123",
+        "email": "marcinwarzybok2@outlook.com",
+        "password": "ABCDEFGH",
+        "isConfirmed": false,
+        "address_details": {
+            "street": "Bieżanowska",
+            "houseNumber": "258B",
+            "state": "Małapolska"
+        },
+        "confirmCode": "uniqid"
+    }
+]

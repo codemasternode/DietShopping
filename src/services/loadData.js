@@ -7,7 +7,6 @@ export function loadDataFromJSONFile(pathToFile, baseURL = "../data") {
     }
     return new Promise((resolve, reject) => {
         fs.readFile(path.join(__dirname, `${baseURL}/${pathToFile}`), (err, data) => {
-            console.log(data, 10)
             if (err || !data) {
                 return  reject(err)
             }
