@@ -65,4 +65,5 @@ ProductSchema.methods.comparePassword = function (candidatePassword, cb) {
     });
 };
 
+ProductSchema.index({ name: "text", category: "text", shortDescription: "text" })
 export default mongoose.model("products", ProductSchema);

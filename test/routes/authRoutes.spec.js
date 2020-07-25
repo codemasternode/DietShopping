@@ -25,7 +25,6 @@ describe("test /api/auth/login", () => {
                 password: "ABCDEFGH"
             })
             .end((err, res) => {
-                console.log(res.body)
                 res.should.have.status(200);
                 res.body.should.have.property("expiresAt")
                 expect(res).to.containCookie({

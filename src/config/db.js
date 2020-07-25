@@ -45,7 +45,6 @@ export default (callback) => {
 
                             new Promise((resolve, reject) => {
                                 loadDataFromJSONFile("mockData/products.json").then(data => {
-                                    console.log(data)
                                     Products.insertMany(data).then((d) => {
                                         resolve()
                                     })
@@ -54,7 +53,7 @@ export default (callback) => {
                             ,
                             new Promise((resolve, reject) => {
                                 loadDataFromJSONFile("mockData/users.json").then(data => {
-                                    Users.insertMany(data).then((d) => {
+                                    Users.create(data).then((d) => {
                                         resolve()
                                     })
                                 })
