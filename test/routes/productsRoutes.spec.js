@@ -107,7 +107,148 @@ describe("test /api/products/search", () => {
 })
 
 describe("test /api/products/create", () => {
-
+    it("should return 200 when all requirements are satisfied", (done) => {
+        chai.request(server)
+            .post("/api/products/create")
+            .send({
+                name: "Apple Iphone 11 Pro 64GB Space Gray",
+                category: "smartphone",
+                price: 4699,
+                inMagazine: {
+                    blocked: 0,
+                    inStock: 40
+                },
+                shortDescription: "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+                images: [
+                    {
+                        order: 1,
+                        src: ""
+                    }
+                ],
+            }).end((err, res) => {
+                res.should.have.status(200);
+                res.body.should.have.property("_id")
+                done()
+            })
+    })
+    describe("should return 400 when", () => {
+        it("should return 400 when name parameter is missing", (done) => {
+            chai.request(server)
+                .post("/api/products/create")
+                .send({
+                    category: "smartphone",
+                    price: 4699,
+                    inMagazine: {
+                        blocked: 0,
+                        inStock: 40
+                    },
+                    shortDescription: "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+                    images: [
+                        {
+                            order: 1,
+                            src: ""
+                        }
+                    ],
+                }).end((err, res) => {
+                    res.should.have.status(400);
+                    res.body.should.have.property("name")
+                    done()
+                })
+        })
+        it("should return 400 when category parameter missing", (done) => {
+            chai.request(server)
+                .post("/api/products/create")
+                .send({
+                    name: "Iphone 10",
+                    price: 4699,
+                    inMagazine: {
+                        blocked: 0,
+                        inStock: 40
+                    },
+                    shortDescription: "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+                    images: [
+                        {
+                            order: 1,
+                            src: ""
+                        }
+                    ],
+                }).end((err, res) => {
+                    res.should.have.status(400);
+                    res.body.should.have.property("name")
+                    done()
+                })
+        })
+        it("should return 400 when price parameter is missing", (done) => {
+            chai.request(server)
+                .post("/api/products/create")
+                .send({
+                    name: "Iphone 10",
+                    category: "GPU",
+                    inMagazine: {
+                        blocked: 0,
+                        inStock: 40
+                    },
+                    shortDescription: "Odkryj wszystkie zalety iPhone 11 Pro 512 GB Silver. Smartfona, który zawstydza podkręconą wydajnością. Posiada bowiem najszybszy w historii procesor A13 Bionic oraz baterię, która pozwala na wiele. Weź iPhone 11 Pro do ręki i rób zdjęcia, których nie powstydziłby się nawet profesjonalista. Teraz masz do tego odpowiednie narzędzie – nowy iPhone 11 Pro posiada potrójny aparat główny, działający w oparciu o uczenie maszynowe. Efekty swojej fotograficznej przygody wraz z najmniejszymi detalami możesz ocenić z kolei na olśniewającym ekranie Super Retina XDR.",
+                    images: [
+                        {
+                            order: 1,
+                            src: ""
+                        }
+                    ],
+                }).end((err, res) => {
+                    res.should.have.status(400);
+                    res.body.should.have.property("price")
+                    done()
+                })
+        })
+        it("should return 400 when shortDescription parameter is missing", (done) => {
+            chai.request(server)
+                .post("/api/products/create")
+                .send({
+                    name: "Iphone 10",
+                    category: "GPU",
+                    price: 12,
+                    inMagazine: {
+                        blocked: 0,
+                        inStock: 40
+                    },
+                    images: [
+                        {
+                            order: 1,
+                            src: ""
+                        }
+                    ],
+                }).end((err, res) => {
+                    res.should.have.status(400);
+                    res.body.should.have.property("shortDescription")
+                    done()
+                })
+        })
+        it("should return 400 when parameters are different type than required", (done) => {
+            chai.request(server)
+                .post("/api/products/create")
+                .send({
+                    name: "Iphone 10",
+                    category: 12,
+                    price: "12",
+                    shortDescription: false,
+                    inMagazine: {
+                        blocked: 0,
+                        inStock: 40
+                    },
+                    images: [
+                        {
+                            order: 1,
+                            src: ""
+                        }
+                    ],
+                }).end((err, res) => {
+                    res.should.have.status(400);
+                    expect(res.body).to.have.all.keys("category", "price", "shortDescription")
+                    done()
+                })
+        })
+    })
 })
 
 describe("test /api/products/update", () => {
