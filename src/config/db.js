@@ -26,6 +26,7 @@ export default (callback) => {
         console.log(`Connected to MongoDB`);
 
         if (process.env.NODE_ENV === "test") {
+            console.log("TEST")
             mongoose.connection.db.listCollections().toArray(function (err, names) {
                 const callbacks = []
                 for (let i = names.length; i--;) {

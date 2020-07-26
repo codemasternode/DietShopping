@@ -126,8 +126,9 @@ describe("test /api/products/create", () => {
                     }
                 ],
             }).end((err, res) => {
+                console.log(res.body)
                 res.should.have.status(200);
-                res.body.should.have.property("_id")
+                res.body.should.have.property("product")
                 done()
             })
     })
@@ -174,7 +175,7 @@ describe("test /api/products/create", () => {
                     ],
                 }).end((err, res) => {
                     res.should.have.status(400);
-                    res.body.should.have.property("name")
+                    res.body.should.have.property("category")
                     done()
                 })
         })
@@ -242,7 +243,7 @@ describe("test /api/products/create", () => {
                             src: ""
                         }
                     ],
-                }).end((err, res) => {
+                }).end((res) => {
                     res.should.have.status(400);
                     expect(res.body).to.have.all.keys("category", "price", "shortDescription")
                     done()

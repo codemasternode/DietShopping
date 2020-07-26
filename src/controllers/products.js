@@ -21,9 +21,33 @@ export async function searchProducts(req, res) {
         return res.status(400).send({ msg: "Missing require properties: [search, page]" })
     }
     const products = await Product.find({ $text: { $search: req.body.search } }).sort(req.body.sort).skip(req.body.page).limit(10)
-    console.log(products)
     if (products.length === 0) {
         return res.status(404).send({ msg: "Product not found" })
     }
     res.send({ products })
+}
+
+export async function createProduct(req, res) {
+    console.log(Product.create)
+    const product = await Product.create({ ...req.body })
+   
+    try {
+        const product = await Product.create({ ...req.body })
+        console.log("created")
+        res.send({ product })
+    } catch (err) {
+        console.log("error")
+        const errorResponse = {}
+        for (let key in err.errors) {
+            //ValidationError handler
+            if (err.errors[key].properties) {
+                errorResponse[key] = err.errors[key].properties.message
+            }
+            //CastError handler
+            else {
+                errorResponse[key] = err.errors[key].toString().split(":")[1]
+            }
+        }
+        res.status(400).send({ ...errorResponse })
+    }
 }
