@@ -11,7 +11,8 @@
             "houseNumber": "258B",
             "state": "Małapolska"
         },
-        "confirmCode": "sdddsaasdzcxcvge"
+        "confirmCode": "sdddsaasdzcxcvge",
+        "isAdmin": true
     },
     {
         "name": "Marcin",

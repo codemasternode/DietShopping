@@ -1,6 +1,7 @@
 import Product from '../model/products'
 import { checkIsObjectHasRequiredProperties } from '../services/propertiesHelper'
 
+
 export async function getProductByPage(req, res) {
     const hasRequiredProperties = checkIsObjectHasRequiredProperties(["sort", "page"], req.body)
 
