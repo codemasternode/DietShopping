@@ -28,26 +28,23 @@ export async function searchProducts(req, res) {
 }
 
 export async function createProduct(req, res) {
-    console.log(Product.create)
-    const product = await Product.create({ ...req.body })
-   
-    try {
-        const product = await Product.create({ ...req.body })
-        console.log("created")
-        res.send({ product })
-    } catch (err) {
-        console.log("error")
-        const errorResponse = {}
-        for (let key in err.errors) {
-            //ValidationError handler
-            if (err.errors[key].properties) {
-                errorResponse[key] = err.errors[key].properties.message
+
+    const product = new Product({ ...req.body })
+    product.save((err, product) => {
+        if (err) {
+            const errorResponse = {}
+            for (let key in err.errors) {
+                //ValidationError handler
+                if (err.errors[key].properties) {
+                    errorResponse[key] = err.errors[key].properties.message
+                }
+                //CastError handler
+                else {
+                    errorResponse[key] = err.errors[key].toString().split(":")[1]
+                }
             }
-            //CastError handler
-            else {
-                errorResponse[key] = err.errors[key].toString().split(":")[1]
-            }
+            return res.status(400).send({ ...errorResponse })
         }
-        res.status(400).send({ ...errorResponse })
-    }
+        res.send({ product })
+    })
 }

@@ -1,35 +1,34 @@
 import mongoose from "mongoose";
-import bcrypt from 'bcryptjs'
 
 const ProductSchema = new mongoose.Schema(
     {
         name: {
             type: String,
-            required: true
+            required: [true, "name is required"]
         },
         category: {
             type: String,
-            required: true
+            required: [true, "category is required"]
         },
         price: {
-            type: String,
-            required: true
+            type: Number,
+            required: [true, "price is required"]
         },
         inMagazine: {
             blocked: {
                 type: Number,
-                required: true,
+                required: [true, "blocked number is required"],
                 min: 0
             },
             inStock: {
                 type: Number,
-                required: true,
+                required: [true, "in stock number is required"],
                 min: 0
             }
         },
         shortDescription: {
             type: String,
-            required: true
+            required: [true, "short description is required"]
         },
         createdAt: {
             type: Date,
@@ -39,31 +38,9 @@ const ProductSchema = new mongoose.Schema(
             type: Date,
             default: Date.now()
         },
-    },
-    { strict: false }
+    }
 );
 
-ProductSchema.pre('save', function (next) {
-    var company = this;
-    company.updated_at = Date.now();
-    if (company.isModified('password')) {
-        bcrypt.genSalt(10, function (err, salt) {
-            if (err) return next(err);
-            bcrypt.hash(company.password, salt, function (err, hash) {
-                if (err) return next(err);
-                company.password = hash;
-                next();
-            });
-        });
-    }
-});
 
-ProductSchema.methods.comparePassword = function (candidatePassword, cb) {
-    bcrypt.compare(candidatePassword, this.password, function (err, isMatch) {
-        if (err) return cb(err);
-        cb(null, isMatch);
-    });
-};
-
-ProductSchema.index({ name: "text", category: "text", shortDescription: "text" })
+//ProductSchema.index({ name: "text", category: "text", shortDescription: "text" })
 export default mongoose.model("products", ProductSchema);

@@ -126,10 +126,13 @@ describe("test /api/products/create", () => {
                     }
                 ],
             }).end((err, res) => {
-                console.log(res.body)
                 res.should.have.status(200);
                 res.body.should.have.property("product")
-                done()
+                Products.findById(res.body.product._id).then(product => {
+                    expect(product).to.be.a("object")
+                    done()
+                })
+                
             })
     })
     describe("should return 400 when", () => {
@@ -222,30 +225,6 @@ describe("test /api/products/create", () => {
                 }).end((err, res) => {
                     res.should.have.status(400);
                     res.body.should.have.property("shortDescription")
-                    done()
-                })
-        })
-        it("should return 400 when parameters are different type than required", (done) => {
-            chai.request(server)
-                .post("/api/products/create")
-                .send({
-                    name: "Iphone 10",
-                    category: 12,
-                    price: "12",
-                    shortDescription: false,
-                    inMagazine: {
-                        blocked: 0,
-                        inStock: 40
-                    },
-                    images: [
-                        {
-                            order: 1,
-                            src: ""
-                        }
-                    ],
-                }).end((res) => {
-                    res.should.have.status(400);
-                    expect(res.body).to.have.all.keys("category", "price", "shortDescription")
                     done()
                 })
         })
